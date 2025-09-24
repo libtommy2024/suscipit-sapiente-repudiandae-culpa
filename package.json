@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/suscipit-sapiente-repudiandae-culpa",
-  "version": "16.37.467",
+  "version": "16.37.468",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -557,5 +557,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/suscipit-sapiente-repudiandae-culpa/issues"
   },
-  "packageManager": "yarn@4.10.2"
+  "packageManager": "yarn@4.10.3"
 }
